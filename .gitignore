@@ -45,7 +45,7 @@ Icon
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
-.catalystrc
+
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
@@ -157,4 +157,5 @@ psd
 thumb
 sketch
 
+.catalystrc
 # End of https://www.gitignore.io/api/git,node,code,react,macos
